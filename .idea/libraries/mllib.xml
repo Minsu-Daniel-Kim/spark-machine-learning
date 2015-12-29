@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="mllib">
+    <CLASSES>
+      <root url="file://$USER_HOME$/spark/data/mllib" />
+      <root url="file://$USER_HOME$/spark/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/spark/lib" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/spark/lib" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/spark/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>
